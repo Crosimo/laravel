@@ -1,0 +1,31 @@
+nav {
+    .container-fluid{
+        background-color: #343A40 !important;
+        .titre{
+            color: purple;
+            display: flex;
+            justify-content: space-around;
+            width: 50% !important;
+
+        }
+        .flexeur{
+            display: flex;
+            justify-content: center;
+            width: 50% !important;
+
+            ul{
+                li{
+                    a{
+                        color: white !important;
+                    }
+
+                }
+
+            }
+
+
+
+        }
+    }
+}
+
